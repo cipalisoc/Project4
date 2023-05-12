@@ -1,6 +1,7 @@
 # Project4
 ![screenshot](https://github.com/cipalisoc/Project4/blob/main/front.jpg?raw=true) 
 
+Click [here](https://public.tableau.com/views/CoreProjectDashboard_16838649446570/FrontPage?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to go directly to the dashboard.
 
  
  
